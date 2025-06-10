@@ -1,0 +1,6 @@
+/.DS_Store
+/.venv
+/__pycache__
+/best_model.pt
+/dataset
+/website/node_modules

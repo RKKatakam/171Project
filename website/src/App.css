@@ -1,0 +1,17 @@
+:root {
+  --background: rgb(79, 52, 110);
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--background);
+}
+
+body {
+  padding: 0;
+  margin: 0;
+} 
